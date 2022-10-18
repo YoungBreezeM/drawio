@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T02:33:17.261Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zrk5Yd4hd4X7-bGLm2su" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T02:43:24.783Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="e87p-6LAEgEG-AJ-Zleq" version="20.3.0" type="github">
   <diagram id="eGtA_mQg2Kvg4qejzhI2" name="第 1 页">
     <mxGraphModel dx="2407" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1EESua4ttruzQRhFlGZV-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fontSize=6;fillColor=#F2F2F2;fontColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="400" width="1230" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="NYcVxpbIizTCKHN2jAaS-1" value="" style="html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="980" y="420" width="200" height="130" as="geometry" />
         </mxCell>
@@ -70,7 +73,7 @@
         <mxCell id="NYcVxpbIizTCKHN2jAaS-18" value="URSP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="240" y="527" width="40" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-19" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-19" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;UE&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="197.5" y="610" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NYcVxpbIizTCKHN2jAaS-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=20;fontColor=#000000;" parent="1" edge="1">
@@ -93,10 +96,11 @@
         </mxCell>
         <mxCell id="NYcVxpbIizTCKHN2jAaS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#30E636;strokeWidth=1.2;fontSize=20;fontColor=#000000;endArrow=oval;endFill=1;" parent="1" source="NYcVxpbIizTCKHN2jAaS-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="480" as="targetPoint" />
+            <mxPoint x="1040" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="960" y="440" />
-              <mxPoint x="960" y="480" />
+              <mxPoint x="960" y="500" />
+              <mxPoint x="1040" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,10 +120,11 @@
         </mxCell>
         <mxCell id="NYcVxpbIizTCKHN2jAaS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#1BA1E2;strokeWidth=1.2;fontSize=20;fontColor=#000000;endArrow=oval;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NYcVxpbIizTCKHN2jAaS-28" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="540" as="targetPoint" />
+            <mxPoint x="1040" y="530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="960" y="585" />
-              <mxPoint x="960" y="540" />
+              <mxPoint x="960" y="530" />
+              <mxPoint x="1040" y="530" />
             </Array>
             <mxPoint x="860" y="582" as="sourcePoint" />
           </mxGeometry>
@@ -130,19 +135,19 @@
         <mxCell id="NYcVxpbIizTCKHN2jAaS-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="620" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;URSP Rule1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;URSP Rule1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#0082F0;" parent="1" vertex="1">
           <mxGeometry x="40" y="620" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NYcVxpbIizTCKHN2jAaS-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;strokeWidth=1;fontSize=12;fontColor=#FFFFFF;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NYcVxpbIizTCKHN2jAaS-32" target="NYcVxpbIizTCKHN2jAaS-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-32" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#66B2FF;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-32" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#5DB5FF;" parent="1" vertex="1">
           <mxGeometry x="40" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-33" value="appId=Enterprise" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-33" value="appId=Enterprise" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#0082F0;" parent="1" vertex="1">
           <mxGeometry x="40" y="680" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-34" value="S-SNSSAI#3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#66B2FF;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-34" value="S-SNSSAI#3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#5DB5FF;" parent="1" vertex="1">
           <mxGeometry x="40" y="710" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NYcVxpbIizTCKHN2jAaS-35" value="Example:&lt;br style=&quot;font-size: 11px;&quot;&gt;Communications app category binding to network slices." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=11;fontColor=#000000;" parent="1" vertex="1">
@@ -154,19 +159,19 @@
         <mxCell id="NYcVxpbIizTCKHN2jAaS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC99FF;strokeWidth=1.2;fontSize=12;fontColor=#FFFFFF;endArrow=classic;endFill=1;" parent="1" source="NYcVxpbIizTCKHN2jAaS-38" target="NYcVxpbIizTCKHN2jAaS-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-38" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;AMF&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=20;fontColor=#000000;fillColor=#1BA1E2;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-38" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;AMF&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=20;fontColor=#000000;fillColor=#0082F0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="590" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-39" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;NSACF&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=20;fontColor=#000000;fillColor=#1BA1E2;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-39" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;NSACF&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;fontSize=20;fontColor=#000000;fillColor=#0082F0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="730" y="320" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-40" value="&lt;font color=&quot;#cc99ff&quot; style=&quot;font-size: 11px;&quot;&gt;UE do registration with requested slice list #1,#2,#3.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1.2;fontSize=11;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-40" value="&lt;font color=&quot;#cc99ff&quot; style=&quot;font-size: 11px;&quot;&gt;UE do registration with requested slice list #1,#2,#3.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1.2;fontSize=11;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="280" y="610" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NYcVxpbIizTCKHN2jAaS-41" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NYcVxpbIizTCKHN2jAaS-42" value="&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;Ericsson Hilda&amp;quot;;&quot;&gt;AMF enable the NSAC for selected slices.&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Ericsson Hilda&amp;quot;;&quot;&gt;NACF provides the NSAC to control&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Ericsson Hilda&amp;quot;;&quot;&gt;the number of UE.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#3399FF;align=left;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="NYcVxpbIizTCKHN2jAaS-42" value="&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;Ericsson Hilda&amp;quot;;&quot;&gt;AMF enable the NSAC for selected slices.&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Ericsson Hilda&amp;quot;;&quot;&gt;NACF provides the NSAC to control&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Ericsson Hilda&amp;quot;;&quot;&gt;the number of UE.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;strokeWidth=0;fontSize=11;fontColor=#FFFFFF;fillColor=#0082F0;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="605" y="635" width="360" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1EESua4ttruzQRhFlGZV-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AMF: enable the NSAC for enterprise slice #2, #3.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
